@@ -21,3 +21,6 @@ Navigate to the project folder and execute the python script via `python3 main.p
 ![image](https://github.com/user-attachments/assets/137d04c9-ef28-49fd-8ad7-58c60dfd0100)
 
 4. Many modifications were done to allow multithreading of the health check process. This was necessary to meet the 15 second time requirement even if there's a large amount of end points.
+
+5. Log result function was added to clean up the code:
+   ![image](https://github.com/user-attachments/assets/10a896f0-9b64-4169-9e23-aab77585af31)

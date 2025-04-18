@@ -15,4 +15,4 @@
 - name: sample error down
   url: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/error
 - name: sample google
-  url: https://teampronto.pro:443/
+  url: https://google.com:443/

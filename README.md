@@ -6,7 +6,7 @@ Here's my submission for the Fetch SRE Python take home assignment.
 2. Download sample.py, main.py and place into a project folder
 
 # Running Python Script
-Navigate to the project folder and execute the python folder via `python3 main.py sample.yaml`
+Navigate to the project folder and execute the python script via `python3 main.py sample.yaml`
 
 ![image](https://github.com/user-attachments/assets/d5548dfd-509d-47ad-bb12-1425f3207d93)
 
